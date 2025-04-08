@@ -12,8 +12,6 @@ A machine learning project that predicts university student dropout and academic
 - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FFB13B?style=flat&logo=jupyter&logoColor=white) Jupyter Notebook
 
 ## Key Features
-
-## Key Features
 - Data preprocessing pipeline with SMOTE for handling class imbalance
 - Feature selection using Pearson's correlation to identify redundant features
 - Hyperparameter tuning with RandomSearchCV for optimal model performance
