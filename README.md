@@ -2,6 +2,17 @@
 
 A machine learning project that predicts university student dropout and academic success rates with 92% accuracy. This project compares multiple algorithms including KNN, Decision Tree, Logistic Regression, SVM, Random Forest, Gaussian Naive Bayes, AdaBoost, and XGBoost.
 
+## Tools & Technologies
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) Pandas
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) NumPy
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-008C45?style=flat&logo=matplotlib&logoColor=white) Matplotlib
+- ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) LaTeX
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) scikit-learn
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FFB13B?style=flat&logo=jupyter&logoColor=white) Jupyter Notebook
+
+## Key Features
+
 ## Key Features
 - Data preprocessing pipeline with SMOTE for handling class imbalance
 - Feature selection using Pearson's correlation to identify redundant features
